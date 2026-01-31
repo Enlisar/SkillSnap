@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Login from "./Login";
+import Login from "./login";
 
 const SKILLS = [
   { id: 1, name: "Guitar", icon: "🎸", color: "bg-zinc-900" },
